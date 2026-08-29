@@ -1,0 +1,232 @@
+[
+  {
+    "_id": 1,
+    "CODE": "EFB",
+    "DESCRIPTION": "BODY"
+  },
+  {
+    "_id": 2,
+    "CODE": "EFCAN",
+    "DESCRIPTION": "CANCELLATION"
+  },
+  {
+    "_id": 3,
+    "CODE": "EFD",
+    "DESCRIPTION": "DOORS"
+  },
+  {
+    "_id": 4,
+    "CODE": "EFDB",
+    "DESCRIPTION": "DISC BRAKES"
+  },
+  {
+    "_id": 5,
+    "CODE": "EFHV",
+    "DESCRIPTION": "HIGH VOLTAGE"
+  },
+  {
+    "_id": 6,
+    "CODE": "EFHVA",
+    "DESCRIPTION": "HEAT / VENT / AC"
+  },
+  {
+    "_id": 7,
+    "CODE": "EFLV",
+    "DESCRIPTION": "LOW VOLTAGE"
+  },
+  {
+    "_id": 8,
+    "CODE": "EFO",
+    "DESCRIPTION": "OTHER"
+  },
+  {
+    "_id": 9,
+    "CODE": "EFP",
+    "DESCRIPTION": "PROPULSION"
+  },
+  {
+    "_id": 10,
+    "CODE": "EFRA",
+    "DESCRIPTION": "RAMP ISSUES"
+  },
+  {
+    "_id": 11,
+    "CODE": "EFT",
+    "DESCRIPTION": "TRUCKS"
+  },
+  {
+    "_id": 12,
+    "CODE": "EFTB",
+    "DESCRIPTION": "TRACK BRAKES"
+  },
+  {
+    "_id": 13,
+    "CODE": "MFCN",
+    "DESCRIPTION": "CLEANING"
+  },
+  {
+    "_id": 14,
+    "CODE": "MFDV",
+    "DESCRIPTION": "ON DIVERSION"
+  },
+  {
+    "_id": 15,
+    "CODE": "MFESA",
+    "DESCRIPTION": "NO OPERATOR AVAILABLE DUE TO ESA"
+  },
+  {
+    "_id": 16,
+    "CODE": "MFFD",
+    "DESCRIPTION": "FARE DISPUTE"
+  },
+  {
+    "_id": 17,
+    "CODE": "MFLD",
+    "DESCRIPTION": "LABOUR DISPUTE"
+  },
+  {
+    "_id": 18,
+    "CODE": "MFO",
+    "DESCRIPTION": "OTHER"
+  },
+  {
+    "_id": 19,
+    "CODE": "MFPI",
+    "DESCRIPTION": "COLLISION/PERSONAL INJURY - TTC NOT INVOLVED"
+  },
+  {
+    "_id": 20,
+    "CODE": "MFPR",
+    "DESCRIPTION": "HELD BY PARADES/MARCHES"
+  },
+  {
+    "_id": 21,
+    "CODE": "MFS",
+    "DESCRIPTION": "FIRE / SMOKE"
+  },
+  {
+    "_id": 22,
+    "CODE": "MFSAN",
+    "DESCRIPTION": "UNSANITARY"
+  },
+  {
+    "_id": 23,
+    "CODE": "MFSH",
+    "DESCRIPTION": "USED AS SHUTTLE BUS"
+  },
+  {
+    "_id": 24,
+    "CODE": "MFTO",
+    "DESCRIPTION": "ILL OPERATOR & NON CHARGEABLE OPERATOR ISSUES"
+  },
+  {
+    "_id": 25,
+    "CODE": "MFUI",
+    "DESCRIPTION": "ILL CUSTOMER - TRANSPORTED"
+  },
+  {
+    "_id": 26,
+    "CODE": "MFUIR",
+    "DESCRIPTION": "ILL CUSTOMER \u00e2\u0080\u0093 TRANSPORTATION DECLINED"
+  },
+  {
+    "_id": 27,
+    "CODE": "MFUS",
+    "DESCRIPTION": "UNABLE TO MAINTAIN SCHEDULE"
+  },
+  {
+    "_id": 28,
+    "CODE": "MFVIS",
+    "DESCRIPTION": "VISION ISSUES"
+  },
+  {
+    "_id": 29,
+    "CODE": "MFWEA",
+    "DESCRIPTION": "WEATHER RELATED"
+  },
+  {
+    "_id": 30,
+    "CODE": "PFO",
+    "DESCRIPTION": "OTHER"
+  },
+  {
+    "_id": 31,
+    "CODE": "PFPD",
+    "DESCRIPTION": "TTC COLLISION \u00e2\u0080\u0093 PROPERTY DAMAGE"
+  },
+  {
+    "_id": 32,
+    "CODE": "SFAE",
+    "DESCRIPTION": "ASSAULT \u00e2\u0080\u0093 EMPLOYEE"
+  },
+  {
+    "_id": 33,
+    "CODE": "SFAP",
+    "DESCRIPTION": "ASSAULT \u00e2\u0080\u0093 PATRON"
+  },
+  {
+    "_id": 34,
+    "CODE": "SFBT",
+    "DESCRIPTION": "BOMB THREAT"
+  },
+  {
+    "_id": 35,
+    "CODE": "SFDP",
+    "DESCRIPTION": "DISORDERLY PATRON"
+  },
+  {
+    "_id": 36,
+    "CODE": "SFO",
+    "DESCRIPTION": "OTHER"
+  },
+  {
+    "_id": 37,
+    "CODE": "SFPOL",
+    "DESCRIPTION": "HELD DUE TO POLICE INVESTIGATION"
+  },
+  {
+    "_id": 38,
+    "CODE": "SFSA",
+    "DESCRIPTION": "ASSAULT \u00e2\u0080\u0093 SEXUAL"
+  },
+  {
+    "_id": 39,
+    "CODE": "SFSP",
+    "DESCRIPTION": "SUSPICIOUS PACKAGE"
+  },
+  {
+    "_id": 40,
+    "CODE": "TFCNO",
+    "DESCRIPTION": "NO OPERATOR AVAILABLE"
+  },
+  {
+    "_id": 41,
+    "CODE": "TFLF",
+    "DESCRIPTION": "LATE ENTERING SERVICE \u00e2\u0080\u0093 FIRST VEHICLE"
+  },
+  {
+    "_id": 42,
+    "CODE": "TFLL",
+    "DESCRIPTION": "LATE VEHICLE \u00e2\u0080\u0093 ROUTE"
+  },
+  {
+    "_id": 43,
+    "CODE": "TFO",
+    "DESCRIPTION": "OTHER \u00e2\u0080\u0093 SWITCH VIOLATION"
+  },
+  {
+    "_id": 44,
+    "CODE": "TFOI",
+    "DESCRIPTION": "ON BOARD INJURY"
+  },
+  {
+    "_id": 45,
+    "CODE": "TFPD",
+    "DESCRIPTION": "TTC COLLISION \u00e2\u0080\u0093 PROPERTY DAMAGE"
+  },
+  {
+    "_id": 46,
+    "CODE": "TFPI",
+    "DESCRIPTION": "TTC COLLISION \u00e2\u0080\u0093 PERSONAL INJURY"
+  }
+]

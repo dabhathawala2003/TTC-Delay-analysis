@@ -1,0 +1,427 @@
+[
+  {
+    "_id": 1,
+    "CODE": "ETAC",
+    "DESCRIPTION": "HVAC"
+  },
+  {
+    "_id": 2,
+    "CODE": "ETAR",
+    "DESCRIPTION": "ARTICULATION (ALRV)"
+  },
+  {
+    "_id": 3,
+    "CODE": "ETAX",
+    "DESCRIPTION": "AUXILARY POWER SUPPLY"
+  },
+  {
+    "_id": 4,
+    "CODE": "ETBO",
+    "DESCRIPTION": "BODY"
+  },
+  {
+    "_id": 5,
+    "CODE": "ETCA",
+    "DESCRIPTION": "COMPRESSED AIR"
+  },
+  {
+    "_id": 6,
+    "CODE": "ETCE",
+    "DESCRIPTION": "COMMUNICATION EQUIPMENT (INCLUDES STOP ANNOUNCEMENT)"
+  },
+  {
+    "_id": 7,
+    "CODE": "ETCH",
+    "DESCRIPTION": "CHOPPER (PROPULSION)"
+  },
+  {
+    "_id": 8,
+    "CODE": "ETCM",
+    "DESCRIPTION": "CAR MONITORING"
+  },
+  {
+    "_id": 9,
+    "CODE": "ETDB",
+    "DESCRIPTION": "DISC BRAKES"
+  },
+  {
+    "_id": 10,
+    "CODE": "ETDO",
+    "DESCRIPTION": "PASSENGER DOORS"
+  },
+  {
+    "_id": 11,
+    "CODE": "ETDS",
+    "DESCRIPTION": "DESTINATION SIGNS"
+  },
+  {
+    "_id": 12,
+    "CODE": "ETFA",
+    "DESCRIPTION": "FAREBOX EQUIPMENT"
+  },
+  {
+    "_id": 13,
+    "CODE": "ETHV",
+    "DESCRIPTION": "HIGH VOLTAGE (TROLLEY Equipment)"
+  },
+  {
+    "_id": 14,
+    "CODE": "ETLT",
+    "DESCRIPTION": "LIGHTING"
+  },
+  {
+    "_id": 15,
+    "CODE": "ETLV",
+    "DESCRIPTION": "LOW VOLTAGE"
+  },
+  {
+    "_id": 16,
+    "CODE": "ETNEA",
+    "DESCRIPTION": "NO EQUIPMENT AVAILABLE"
+  },
+  {
+    "_id": 17,
+    "CODE": "ETNT",
+    "DESCRIPTION": "EQUIPMENT \u00e2\u0080\u0093 NO TROUBLE FOUND"
+  },
+  {
+    "_id": 18,
+    "CODE": "ETO",
+    "DESCRIPTION": "OTHER"
+  },
+  {
+    "_id": 19,
+    "CODE": "ETPI",
+    "DESCRIPTION": "PROPULSION INVERTER"
+  },
+  {
+    "_id": 20,
+    "CODE": "ETRA",
+    "DESCRIPTION": "RAMP"
+  },
+  {
+    "_id": 21,
+    "CODE": "ETSA",
+    "DESCRIPTION": "SANDERS"
+  },
+  {
+    "_id": 22,
+    "CODE": "ETSE",
+    "DESCRIPTION": "SECURITY EQUIPMENT (CAMERAS/OPERATOR BARRIER)"
+  },
+  {
+    "_id": 23,
+    "CODE": "ETTB",
+    "DESCRIPTION": "TRACK BRAKES"
+  },
+  {
+    "_id": 24,
+    "CODE": "ETTM",
+    "DESCRIPTION": "TRACTION MOTOR"
+  },
+  {
+    "_id": 25,
+    "CODE": "ETTR",
+    "DESCRIPTION": "TRUCKS"
+  },
+  {
+    "_id": 26,
+    "CODE": "ETVC",
+    "DESCRIPTION": "VEHICLE CONTROLS (INCLUDES PEDAL CONTROLLER)"
+  },
+  {
+    "_id": 27,
+    "CODE": "ETVE",
+    "DESCRIPTION": "VEHICLE (SOURCE OF PROBLEM NOT KNOWN)"
+  },
+  {
+    "_id": 28,
+    "CODE": "ETWA",
+    "DESCRIPTION": "WARNING / ALARM SYSTEMS"
+  },
+  {
+    "_id": 29,
+    "CODE": "ETWF",
+    "DESCRIPTION": "WHEEL FLANGE LUBRICATOR"
+  },
+  {
+    "_id": 30,
+    "CODE": "ETWS",
+    "DESCRIPTION": "WINDSHIELD / WIPERS"
+  },
+  {
+    "_id": 31,
+    "CODE": "MTAFR",
+    "DESCRIPTION": "AUTO FOUL RAIL"
+  },
+  {
+    "_id": 32,
+    "CODE": "MTCL",
+    "DESCRIPTION": "DIVISIONAL CLERK RELATED"
+  },
+  {
+    "_id": 33,
+    "CODE": "MTCN",
+    "DESCRIPTION": "CLEANING"
+  },
+  {
+    "_id": 34,
+    "CODE": "MTDV",
+    "DESCRIPTION": "ON DIVERSION"
+  },
+  {
+    "_id": 35,
+    "CODE": "MTEC",
+    "DESCRIPTION": "CONSTRUCTION RELATED"
+  },
+  {
+    "_id": 36,
+    "CODE": "MTESA",
+    "DESCRIPTION": "NO OPERATOR/CREW AVILABLE \u00e2\u0080\u0093 ESA RELATED"
+  },
+  {
+    "_id": 37,
+    "CODE": "MTFD",
+    "DESCRIPTION": "FARE DISPUTE"
+  },
+  {
+    "_id": 38,
+    "CODE": "MTGD",
+    "DESCRIPTION": "MISCELLANEOUS GENERAL STREETCAR DELAY"
+  },
+  {
+    "_id": 39,
+    "CODE": "MTIE",
+    "DESCRIPTION": "INJURED EMPLOYEES"
+  },
+  {
+    "_id": 40,
+    "CODE": "MTLD",
+    "DESCRIPTION": "LABOUR DISPUTE"
+  },
+  {
+    "_id": 41,
+    "CODE": "MTNOA",
+    "DESCRIPTION": "NO OPERATOR AVAILABLE"
+  },
+  {
+    "_id": 42,
+    "CODE": "MTO",
+    "DESCRIPTION": "OTHER"
+  },
+  {
+    "_id": 43,
+    "CODE": "MTOV",
+    "DESCRIPTION": "OVERHEAD DOOR CONTACT"
+  },
+  {
+    "_id": 44,
+    "CODE": "MTPI",
+    "DESCRIPTION": "COLLISION/PERSONAL INJURY - TTC NOT INVOLVED"
+  },
+  {
+    "_id": 45,
+    "CODE": "MTPOL",
+    "DESCRIPTION": "POLICE INVESTIGATION"
+  },
+  {
+    "_id": 46,
+    "CODE": "MTPR",
+    "DESCRIPTION": "PARADES/RACES/MARCHES"
+  },
+  {
+    "_id": 47,
+    "CODE": "MTPU",
+    "DESCRIPTION": "USED AS A PUSHER"
+  },
+  {
+    "_id": 48,
+    "CODE": "MTS",
+    "DESCRIPTION": "FIRE / SMOKE"
+  },
+  {
+    "_id": 49,
+    "CODE": "MTSAN",
+    "DESCRIPTION": "UNSANITARY VEHICLE"
+  },
+  {
+    "_id": 50,
+    "CODE": "MTTD",
+    "DESCRIPTION": "MISC. TRAINING DEPT. RELATED"
+  },
+  {
+    "_id": 51,
+    "CODE": "MTTO",
+    "DESCRIPTION": "MISC.TRANSPORTATION OTHER"
+  },
+  {
+    "_id": 52,
+    "CODE": "MTTP",
+    "DESCRIPTION": "TRAPPED VEHICLE"
+  },
+  {
+    "_id": 53,
+    "CODE": "MTUD",
+    "DESCRIPTION": "DOOR PROBLEMS \u00e2\u0080\u0093 PASSENGER RELATED"
+  },
+  {
+    "_id": 54,
+    "CODE": "MTUDD",
+    "DESCRIPTION": "DOOR PROBLEMS \u00e2\u0080\u0093 DEBRIS RELATED"
+  },
+  {
+    "_id": 55,
+    "CODE": "MTUI",
+    "DESCRIPTION": "INJURIED/ILL CUSTOMER \u00e2\u0080\u0093 TRANSPORTED"
+  },
+  {
+    "_id": 56,
+    "CODE": "MTUIR",
+    "DESCRIPTION": "INJURIED/ILL CUSTOMER \u00e2\u0080\u0093 MEDICAL AID DECLINED"
+  },
+  {
+    "_id": 57,
+    "CODE": "MTUS",
+    "DESCRIPTION": "UNABLE TO MAINT SCHED DUE TO TRAF/PASS CONGES"
+  },
+  {
+    "_id": 58,
+    "CODE": "MTVIS",
+    "DESCRIPTION": "VISION ISSUES"
+  },
+  {
+    "_id": 59,
+    "CODE": "MTWEA",
+    "DESCRIPTION": "WEATHER REPORTS / RELATED PROBLEMS"
+  },
+  {
+    "_id": 60,
+    "CODE": "MTWR",
+    "DESCRIPTION": "WORK REFUSAL"
+  },
+  {
+    "_id": 61,
+    "CODE": "PTNTF",
+    "DESCRIPTION": "SWITCH PROBLEM - NTF"
+  },
+  {
+    "_id": 62,
+    "CODE": "PTO",
+    "DESCRIPTION": "OTHER - PLANT"
+  },
+  {
+    "_id": 63,
+    "CODE": "PTOV",
+    "DESCRIPTION": "OVERHEAD DEFECT"
+  },
+  {
+    "_id": 64,
+    "CODE": "PTPD",
+    "DESCRIPTION": "TTC COLLISION \u00e2\u0080\u0093 PROPERTY DAMAGE"
+  },
+  {
+    "_id": 65,
+    "CODE": "PTSE",
+    "DESCRIPTION": "SWITCH INCIDENT - ELECTRICAL"
+  },
+  {
+    "_id": 66,
+    "CODE": "PTSW",
+    "DESCRIPTION": "SWITCH INCIDENT- MECHANICAL"
+  },
+  {
+    "_id": 67,
+    "CODE": "PTTR",
+    "DESCRIPTION": "DEFECTIVE TRUMP UNIT"
+  },
+  {
+    "_id": 68,
+    "CODE": "PTW",
+    "DESCRIPTION": "TRACK DEFECT"
+  },
+  {
+    "_id": 69,
+    "CODE": "STAE",
+    "DESCRIPTION": "ASSAULT \u00e2\u0080\u0093 EMPLOYEE INVOLVED"
+  },
+  {
+    "_id": 70,
+    "CODE": "STAP",
+    "DESCRIPTION": "ASSAULT \u00e2\u0080\u0093 PATRON INVOLVED"
+  },
+  {
+    "_id": 71,
+    "CODE": "STBT",
+    "DESCRIPTION": "BOMB THREAT"
+  },
+  {
+    "_id": 72,
+    "CODE": "STDP",
+    "DESCRIPTION": "DISORDERLY PATRON"
+  },
+  {
+    "_id": 73,
+    "CODE": "STEAS",
+    "DESCRIPTION": "EMERGENCY ALARM STATION ACTIVATION \u00e2\u0080\u0093 NO TROUBLE FOUND"
+  },
+  {
+    "_id": 74,
+    "CODE": "STO",
+    "DESCRIPTION": "OTHER"
+  },
+  {
+    "_id": 75,
+    "CODE": "STSA",
+    "DESCRIPTION": "ASSAULT \u00e2\u0080\u0093 SEXUAL"
+  },
+  {
+    "_id": 76,
+    "CODE": "STSP",
+    "DESCRIPTION": "SUSPICIOUS PACKAGE"
+  },
+  {
+    "_id": 77,
+    "CODE": "TTLF",
+    "DESCRIPTION": "LATE ENTERING SERVICE \u00e2\u0080\u0093 FIRST VEHICLE"
+  },
+  {
+    "_id": 78,
+    "CODE": "TTLL",
+    "DESCRIPTION": "LATE VEHICLE - ROUTE"
+  },
+  {
+    "_id": 79,
+    "CODE": "TTO",
+    "DESCRIPTION": "TRANSPORTATION \u00e2\u0080\u0093 OTHER"
+  },
+  {
+    "_id": 80,
+    "CODE": "TTOI",
+    "DESCRIPTION": "ON BOARD INJURY"
+  },
+  {
+    "_id": 81,
+    "CODE": "TTPD",
+    "DESCRIPTION": "TTC COLLISION \u00e2\u0080\u0093 PROPERTY DAMAGE"
+  },
+  {
+    "_id": 82,
+    "CODE": "TTPI",
+    "DESCRIPTION": "TTC COLLISION \u00e2\u0080\u0093 PERSONAL INJURY"
+  },
+  {
+    "_id": 83,
+    "CODE": "TTSUP",
+    "DESCRIPTION": "SUPERVISORY ERROR"
+  },
+  {
+    "_id": 84,
+    "CODE": "TTSW",
+    "DESCRIPTION": "OPERATOR VIOLATED SWITCH"
+  },
+  {
+    "_id": 85,
+    "CODE": "TTUS",
+    "DESCRIPTION": "Operator  Unable to Maintain schedule (Operator Related)"
+  }
+]
