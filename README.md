@@ -34,6 +34,10 @@ flowchart TD
 - Which stations experience the highest cumulative delay
 - How delay volume trends month over month
 
+## Dashboard
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6a3e81f-4e67-4447-8681-156473ea82fe" />
+
+
 ## Key finding
 
 Bus delays caused by being **"On Diversion"** account for the single largest share of total network delay minutes of any cause, across all three transit modes combined — a pattern that holds consistently across every month in the dataset.
